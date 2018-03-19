@@ -14,7 +14,7 @@ public class TC002_Create_Lead_POMFrameWork extends ProjectMethods{
 		testNodes="Leads";
 		category="Smoke";
 		authors="Dhana";
-		browserName="firefox";
+		browserName="chrome";
 		dataSheetName="TC002-Create";
 	}
 
